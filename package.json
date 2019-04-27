@@ -1,0 +1,13 @@
+{
+    "id": "microsoftto-do",
+    "name": "Microsoft to-do",
+    "version": "1.0.0",
+    "description": "Microsoft to-do Web App",
+    "main": "index.js",
+    "author": "Rouyer Florian <florian.rouyer@outlook.com>",
+    "repository": "",
+    "license": "MIT",
+    "config": {
+        "serviceURL": "https://outlook.live.com/owa/"
+    }
+}
