@@ -8,6 +8,7 @@
     "repository": "",
     "license": "MIT",
     "config": {
-        "serviceURL": "https://outlook.live.com/owa/"
+        "serviceURL": "https://todo.microsoft.com/login",
+        "hasNotificationSound": true
     }
 }
